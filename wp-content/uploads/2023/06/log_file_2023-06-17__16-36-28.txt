@@ -1,0 +1,20 @@
+
+---Downloaded files---
+The import files for: Green Wealth Homepage Free were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/greenkeybd
+Data file = E:\Ampps\www\greenkeybd\wp-content\plugins\cyclone-demo-importer//themes/green-wealth/inc/content.xml
+Widget file = not defined!
+Customizer file = E:\Ampps\www\greenkeybd\wp-content\plugins\cyclone-demo-importer//themes/green-wealth/inc/options.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
